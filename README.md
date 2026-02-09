@@ -15,4 +15,4 @@ follow and the authoritative systems that keep them in check.
 This Project was submitted when I was in 10th grade, however, due to a mistake I was registered in the 12th grade category and yet won the
 third position in the Individual Project Category. 
 
-The Link for your reference [NSS Winners' List 2021]((https://nss.org/settlement/nasa/Contest/Results/2021/))
+The Link for your reference [NSS Winners' List 2021](https://nss.org/settlement/nasa/Contest/Results/2021/)
